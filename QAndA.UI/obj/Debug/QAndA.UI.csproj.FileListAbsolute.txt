@@ -1,0 +1,17 @@
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\QAndA.UI.exe.config
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\QAndA.UI.exe
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\QAndA.UI.pdb
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.csprojAssemblyReference.cache
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.Properties.Resources.resources
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.csproj.GenerateResource.cache
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.csproj.CoreCompileInputs.cache
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.exe
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.pdb
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\QAndA.BLL.dll
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\QAndA.Model.dll
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\QAndA.BLL.pdb
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\QAndA.Model.pdb
+D:\Projects\QAndATransformation\QAndA.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.QAndATestForm.resources
+D:\Projects\QAndATransformation\QAndA.UI\obj\Debug\QAndA.UI.csproj.CopyComplete

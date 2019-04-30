@@ -1,0 +1,5 @@
+D:\Projects\QAndATransformation\QAndA.Model\bin\Debug\QAndA.Model.dll
+D:\Projects\QAndATransformation\QAndA.Model\bin\Debug\QAndA.Model.pdb
+D:\Projects\QAndATransformation\QAndA.Model\obj\Debug\QAndA.Model.csproj.CoreCompileInputs.cache
+D:\Projects\QAndATransformation\QAndA.Model\obj\Debug\QAndA.Model.dll
+D:\Projects\QAndATransformation\QAndA.Model\obj\Debug\QAndA.Model.pdb
